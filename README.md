@@ -1,2 +1,1 @@
-# mlmpowers2_dfy
-MLM Website for iBeads
+MLM Website for ibeads
